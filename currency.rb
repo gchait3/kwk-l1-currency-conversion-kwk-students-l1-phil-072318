@@ -9,5 +9,7 @@ def usd_to_jpy(money)
 end
 usd_to_jpy(100)
 
-def usd_to_gbp
-    puts "you have #{money * "
+def usd_to_gbp(money)
+    puts "you have #{money * 0.76}"
+end
+usd_to_gbp(100)
