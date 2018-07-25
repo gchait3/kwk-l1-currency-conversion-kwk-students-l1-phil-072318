@@ -26,6 +26,9 @@ back to dollars and receive the same initial value. So, for example, if 1.20
 dollars can be converted to 1 euro, converting 1 euro back to dollars should
 return 1.20.
 
+
+
+
 [Here’s a conversion tool by Google to help you with building your own conversion calculator.](https://www.google.com/search?q=USD+to+EUR)
 
 
